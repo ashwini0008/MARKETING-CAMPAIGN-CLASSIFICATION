@@ -73,29 +73,27 @@ The project implements and compares multiple classification algorithms:
 
 ## 🛠️ Technologies & Libraries
 
-```python
-# Core Libraries
+**Core Libraries:**
 - pandas
 - numpy
 - scipy
 
-# Visualization
+**Visualization:**
 - matplotlib
 - seaborn
 
-# Machine Learning
+**Machine Learning:**
 - scikit-learn
 - xgboost
 - lightgbm
 - catboost
 
-# Imbalanced Data
+**Imbalanced Data:**
 - imblearn (SMOTE)
 
-# Utilities
+**Utilities:**
 - pickle
 - tqdm
-```
 
 ## 📦 Installation
 
